@@ -1,5 +1,7 @@
 streamlit
 torch
+torchvision
 transformers
 pillow
 safetensors
+accel
