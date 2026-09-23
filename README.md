@@ -22,6 +22,6 @@ In this project, we develop an advanced computer vision pipeline to classify atm
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/your-username/fog-detection-beit.git](https://github.com/your-username/fog-detection-beit.git)
+git clone [https://github.com/your-username/fog-detection-beit.git](https://github.com/hlifah/fog-detection-beit.git)
 cd fog-detection-beit
 pip install -r requirements.txt
