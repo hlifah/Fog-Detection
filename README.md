@@ -1,9 +1,7 @@
-<img width="1348" height="584" alt="1_pred" src="https://github.com/user-attachments/assets/2dc5b8c9-5318-4ecb-87c5-d75eca5d7c21" />
-<img width="1297" height="585" alt="2_pred" src="https://github.com/user-attachments/assets/704c91a5-8f01-4f55-a1e2-da42acbcf73d" />
-<img width="1288" height="515" alt="3_pred" src="https://github.com/user-attachments/assets/89981515-2ef4-4b2e-b38f-81204dc8c96a" />
-<img width="1348" height="584" alt="1_pred" src="https://github.com/user-attachments/assets/5508fe49-324d-4888-a80c-32d31a10111c" />
-<img width="1297" height="585" alt="2_pred" src="https://github.com/user-attachments/assets/4868ec03-0572-4614-aa2f-d18879ff3dc7" />
-<img width="1288" height="515" alt="3_pred" src="https://github.com/user-attachments/assets/26bc763b-2b4d-4224-8696-52301a818783" />
+<img width="661" height="464" alt="images" src="https://github.com/user-attachments/assets/9ef1d827-4b31-4b17-84a8-c1e5f83b4495" />
+<img width="1297" height="585" alt="2_pred" src="https://github.com/user-attachments/assets/037f4b09-0712-4874-b35b-72ccd63e25e1" />
+<img width="1288" height="515" alt="3_pred" src="https://github.com/user-attachments/assets/bfc78f91-67aa-4814-a089-055afd832743" />
+<img width="1281" height="544" alt="1_pred" src="https://github.com/user-attachments/assets/41b80a10-9c9e-4960-94a6-c0e2d41337d6" />
 ## 📖 Overview
 In this project, we develop an advanced computer vision pipeline to classify atmospheric visibility (fog levels) using a state-of-the-art vision transformer model **BEiT** (Bidirectional Encoder representation from Image Transformers). 
 
