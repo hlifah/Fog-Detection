@@ -33,10 +33,13 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+import os
+
 # 2. Load Model and Processor (Cached so it loads only once)
 @st.cache_resource
 def load_model_and_processor():
-    model_path = r"D:\Projects\Python_projects\Machine_Learning\fog\saved_beit_model"
+    # Use relative path so it points to the folder inside your GitHub repo
+    model_path = "./saved_beit_model"
     processor = AutoImageProcessor.from_pretrained(model_path)
     model = BeitForImageClassification.from_pretrained(model_path)
     model.eval()
